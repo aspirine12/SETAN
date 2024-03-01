@@ -3,7 +3,7 @@
 **pashayogi/pashayogi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://www.facebook.com/mwogha.nanguku?mibextid=LQQJ4d
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-[![Header](https://raw.githubusercontent.com/pashayogi/pashayogi/master/ok.png "Header")](https://hdlsvip.com/)
+<!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7
+https://www.facebook.com/mwogha.nanguku?mibextid=LQQJ4d
 
 # Haii, Guys! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
